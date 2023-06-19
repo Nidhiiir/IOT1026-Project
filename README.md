@@ -17,6 +17,7 @@ Write a description of your `Room` and `Monster` class here.
 
 
 [![ci](https://github.com/Nidhiiir/IOT1026-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/Nidhiiir/IOT1026-Project/actions/workflows/ci.yml)
+[![formatting](https://github.com/Nidhiiir/IOT1026-Project/actions/workflows/formatting.yml/badge.svg)](https://github.com/Nidhiiir/IOT1026-Project/actions/workflows/formatting.yml)
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
