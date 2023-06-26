@@ -1,4 +1,4 @@
-﻿namespace MinotaurLabyrinth
+namespace MinotaurLabyrinth
 {
     /// <summary>
     /// A static class that provides methods to generate random locations and other procedural generation-related functionality.
